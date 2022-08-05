@@ -1,3 +1,2 @@
 * Collaborators
 	* Deniz Altun
-	* NewNameSurname
