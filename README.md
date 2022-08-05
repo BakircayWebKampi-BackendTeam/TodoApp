@@ -1,3 +1,3 @@
 * Collaborators
-	* Deniz Altun
-	* Eren Ay
+	* Deniz ALTUN
+	* Eren AY
